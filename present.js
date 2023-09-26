@@ -1,7 +1,7 @@
 
 var to = '🐷!';
 var gift_url = 'https://www.facebook.com/nguyenbaolan1.10.20';
-var gift_image_url = 'https://scontent.fhan5-7.fna.fbcdn.net/v/t1.6435-9/120195184_2811273065864515_3816484128762948893_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=174925&_nc_ohc=8PVP5WXe6tQAX_Piz3j&_nc_ht=scontent.fhan5-7.fna&oh=00_AfBFNAypTyQ2RmzTMf3F7sACoX2ZExfQ7_k7t2FWyrVBUw&oe=653A2B20';
+var gift_image_url = 'https://scontent.fhan5-3.fna.fbcdn.net/v/t39.30808-6/380996014_1124269575626822_4277449062801180984_n.jpg?stp=dst-jpg_p843x403&_nc_cat=106&ccb=1-7&_nc_sid=5614bc&_nc_ohc=u3rkn12Gp_wAX8t0Tda&_nc_ht=scontent.fhan5-3.fna&oh=00_AfAG7fnghDIf8PuIILVPkc9NpwsytoR64xVkwNwPpwe-eQ&oe=6516FF24';
 
 
 
