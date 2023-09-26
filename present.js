@@ -1,7 +1,7 @@
 
 var to = '🐷!';
 var gift_url = 'https://www.facebook.com/nguyenbaolan1.10.20';
-var gift_image_url = '';
+var gift_image_url = 'https://scontent.fhan2-3.fna.fbcdn.net/v/t39.30808-6/380996014_1124269575626822_4277449062801180984_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5614bc&_nc_ohc=QM9xNruvh9sAX9wE1OS&_nc_ht=scontent.fhan2-3.fna&oh=00_AfAitjNYGDKEwy_16hSZiNrvZMe0S4k8vJNuAMhRo2GYjg&oe=650F1624';
 
 
 
